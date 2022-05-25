@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("./fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+.App {
+  background-color: #F8F9FB;
+  color: #354069;
+  padding: 100px;
+  font-family: Montserrat;
+  font-size: 14px;
+}
